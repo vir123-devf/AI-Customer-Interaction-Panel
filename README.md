@@ -61,7 +61,7 @@ Kaggle Link:
 It contains structured question–answer pairs used to build the **RAG (Retrieval-Augmented Generation)** knowledge base.
 
 ---
-## 🚀 **Project Overview**
+## 🚀 Project Overview
 
 **Title:** *AI Customer Interaction Panel*  
 **Goal:** Build a voice-enabled AI assistant capable of:
@@ -73,7 +73,9 @@ It contains structured question–answer pairs used to build the **RAG (Retrieva
 • Generating reliable responses using Cohere LLM  
 • Speaking the answer back using gTTS  
 • Storing all conversation logs to Supabase (PostgreSQL)
+
 ---
+
 
 ## 🔥 **Key Features**
 
