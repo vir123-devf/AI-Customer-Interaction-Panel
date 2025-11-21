@@ -4,7 +4,6 @@
 ### **AI Intern Project – Voice-Enabled Customer Support Bot**
 
 This project implements an **AI-powered Voice Bot** that listens to customer queries, understands them, retrieves answers from an e-commerce FAQ dataset, and responds using text-to-speech.
-
 It integrates **Whisper ASR** (Speech-to-Text), **Cohere LLM**, **FAISS RAG**, **Streamlit UI** and **Supabase Logging** to provide a complete, real-time, voice-based customer support system.
 
 ## 🔗 **Links**
