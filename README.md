@@ -20,7 +20,8 @@ to provide a complete, real-time, voice-based customer support system.
 ## 🔗 **Links**
 
 * **Live Demo:** [https://ai-customer-interaction-panel.streamlit.app/](https://ai-customer-interaction-panel.streamlit.app/)
-* **Working Video:** [https://youtu.be/YzrXrdS268k](https://youtu.be/YzrXrdS268k)
+
+* [![Working Video](https://img.youtube.com/vi/YzrXrdS268k/maxresdefault.jpg)](https://youtu.be/YzrXrdS268k)
 
 ---
 
@@ -263,6 +264,5 @@ This is ideal for:
 > **“Dreams become reality when innovation meets action.”**  
 > *— Inspired by Dr. APJ Abdul Kalam*
 
----
 
 ### **Crafted with ❤️ by *Virendra Badgotya***
