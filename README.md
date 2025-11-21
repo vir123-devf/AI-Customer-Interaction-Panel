@@ -6,7 +6,7 @@ This project implements an **AI-powered Voice Bot** that listens to customer que
 It integrates **Whisper ASR, Cohere LLM, FAISS RAG, Streamlit UI, and Supabase logging**, providing a complete voice-based customer-support system.
 
 Live Demo: https://ai-customer-interaction-panel.streamlit.app/
-Working Video: 
+
 
 <img width="1916" height="832" alt="image" src="https://github.com/user-attachments/assets/9b4ce257-7646-44ef-8df4-f63fc6e39ef0" />
 
