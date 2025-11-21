@@ -233,7 +233,7 @@ Includes dependencies for:
 
 The core RAG behavior:
 
-"""
+    """
     You are an AI customer support assistant for an e-commerce platform.
 
     Use only the information provided in the following knowledge base content:
