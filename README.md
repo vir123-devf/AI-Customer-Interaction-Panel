@@ -15,8 +15,6 @@ It integrates:
 
 to provide a complete, real-time, voice-based customer support system.
 
----
-
 ## 🔗 **Links**
 
 * **Live Demo:** [https://ai-customer-interaction-panel.streamlit.app/](https://ai-customer-interaction-panel.streamlit.app/)
