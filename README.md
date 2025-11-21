@@ -1,19 +1,45 @@
-# 🎤 AI Customer Interaction Panel
+# 🎤 **AI Customer Interaction Panel**
 
 ### **AI Intern Project – Voice-Enabled Customer Support Bot**
 
 This project implements an **AI-powered Voice Bot** that listens to customer queries, understands them, retrieves answers from an e-commerce FAQ dataset, and responds using text-to-speech.
-It integrates **Whisper ASR, Cohere LLM, FAISS RAG, Streamlit UI, and Supabase logging**, providing a complete voice-based customer-support system.
 
-Live Demo: https://ai-customer-interaction-panel.streamlit.app/
-Working Video : https://youtu.be/YzrXrdS268k
-## Screenshoot
-# Main Interection Page:
-<img width="1916" height="832" alt="image" src="https://github.com/user-attachments/assets/9b4ce257-7646-44ef-8df4-f63fc6e39ef0" />
-# Supabase table Preview:
-<img width="1218" height="291" alt="image" src="https://github.com/user-attachments/assets/57762c80-7889-4c2a-882d-b02851f17c47" />
-# Pdf downloaded Example Preview:
-<img width="1029" height="773" alt="image" src="https://github.com/user-attachments/assets/c655185d-cae5-40ac-a754-e312b2e7ea10" />
+It integrates:
+
+* **Whisper ASR** (Speech-to-Text)
+* **Cohere LLM**
+* **FAISS RAG**
+* **Streamlit UI**
+* **Supabase Logging**
+
+to provide a complete, real-time, voice-based customer support system.
+
+---
+
+## 🔗 **Links**
+
+* **Live Demo:** [https://ai-customer-interaction-panel.streamlit.app/](https://ai-customer-interaction-panel.streamlit.app/)
+* **Working Video:** [https://youtu.be/YzrXrdS268k](https://youtu.be/YzrXrdS268k)
+
+---
+
+## 📸 **Screenshots**
+
+### **Main Interaction Page**
+
+<img width="1916" height="832" alt="Main Interaction Page" src="https://github.com/user-attachments/assets/9b4ce257-7646-44ef-8df4-f63fc6e39ef0" />
+
+---
+
+### **Supabase Table Preview**
+
+<img width="1860" height="762" alt="Supabase Table Preview" src="https://github.com/user-attachments/assets/0ac09535-b3c0-469c-b62b-1d9cda21db6f" />
+
+---
+
+### **PDF Download Example**
+
+<img width="1029" height="773" alt="PDF Sample" src="https://github.com/user-attachments/assets/c655185d-cae5-40ac-a754-e312b2e7ea10" />
 
 ---
 
