@@ -1,5 +1,5 @@
 # 🎤 **AI Customer Interaction Panel**
-<img width="1663" height="677" alt="image" src="https://github.com/user-attachments/assets/ffbff2fc-d783-4fbb-a7fd-82d1c9288210" />
+
 
 ### **AI Intern Project – Voice-Enabled Customer Support Bot**
 
@@ -120,29 +120,7 @@ All interactions are stored in a Supabase PostgreSQL table:
 
 ## 🧠 **System Architecture**
 
-```
- User Voice
-     ▼
- [Whisper ASR]
-     ▼
- User Query (text)
-     ▼
- [FAISS Vector DB]
- Retrieve relevant FAQ pairs
-     ▼
- [Cohere LLM]
- Generate grounded response
-     ▼
- Bot Response (text)
-     ▼
- [gTTS]
- Convert to speech
-     ▼
- Streamlit UI plays audio
-     ▼
- [Supabase]
- Save logs to PostgreSQL
-```
+<img width="1663" height="677" alt="image" src="https://github.com/user-attachments/assets/ffbff2fc-d783-4fbb-a7fd-82d1c9288210" />
 
 ---
 
@@ -280,3 +258,11 @@ This is ideal for:
 * Automated helpdesks
 * Voiced FAQ systems
 * AI-driven interactive kiosks
+   
+
+> **“Dreams become reality when innovation meets action.”**  
+> *— Inspired by Dr. APJ Abdul Kalam*
+
+---
+
+### **Crafted with ❤️ by *Virendra Badgotya***
