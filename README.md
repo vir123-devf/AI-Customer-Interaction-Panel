@@ -1,4 +1,5 @@
 # 🎤 **AI Customer Interaction Panel**
+<img width="1663" height="677" alt="image" src="https://github.com/user-attachments/assets/ffbff2fc-d783-4fbb-a7fd-82d1c9288210" />
 
 ### **AI Intern Project – Voice-Enabled Customer Support Bot**
 
