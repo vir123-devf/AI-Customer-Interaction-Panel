@@ -60,20 +60,18 @@ Kaggle Link:
 It contains structured question–answer pairs used to build the **RAG (Retrieval-Augmented Generation)** knowledge base.
 
 ---
-
 ## 🚀 **Project Overview**
 
-**Title:** *AI Customer Interaction Panel*
+**Title:** *AI Customer Interaction Panel*  
 **Goal:** Build a voice-enabled AI assistant capable of:
 
-✔ Listening to customer queries
-✔ Converting speech → text using Whisper
-✔ Understanding the query via NLP
-✔ Retrieving accurate answers using FAISS vector search
-✔ Generating reliable responses using Cohere LLM
-✔ Speaking the answer back using gTTS
-✔ Storing all conversation logs to Supabase (PostgreSQL)
-
+• Listening to customer queries  
+• Converting speech → text using Whisper  
+• Understanding the query via NLP  
+• Retrieving accurate answers using FAISS vector search  
+• Generating reliable responses using Cohere LLM  
+• Speaking the answer back using gTTS  
+• Storing all conversation logs to Supabase (PostgreSQL)
 ---
 
 ## 🔥 **Key Features**
