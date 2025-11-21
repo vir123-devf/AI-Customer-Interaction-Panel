@@ -1,7 +1,7 @@
 # 🎤 **AI Customer Interaction Panel**
 
 
-### **AI Intern Project – Voice-Enabled Customer Support Bot**
+### **Voice-Enabled Customer Support Bot**
 
 This project implements an **AI-powered Voice Bot** that listens to customer queries, understands them, retrieves answers from an e-commerce FAQ dataset, and responds using text-to-speech.
 
