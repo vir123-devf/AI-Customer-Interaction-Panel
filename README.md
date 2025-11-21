@@ -21,10 +21,33 @@ to provide a complete, real-time, voice-based customer support system.
 
 * **Live Demo:** [https://ai-customer-interaction-panel.streamlit.app/](https://ai-customer-interaction-panel.streamlit.app/)
 
-### 👉 [**Click here to view the working video**](https://youtu.be/YzrXrdS268k)
+<!-- Centered "Click here" text -->
+<h3 align="center">
+  👉 <a href="https://youtu.be/YzrXrdS268k"><b>Click here to view the working video</b></a>
+</h3>
 
-[![Working Video Thumbnail](https://img.youtube.com/vi/YzrXrdS268k/maxresdefault.jpg)](https://youtu.be/YzrXrdS268k)
-.be/YzrXrdS268k)
+<!-- Centered Thumbnail with Rounded Corners + Play Button Overlay -->
+<p align="center">
+  <a href="https://youtu.be/YzrXrdS268k" target="_blank">
+    <img 
+      src="https://img.youtube.com/vi/YzrXrdS268k/maxresdefault.jpg" 
+      alt="Working Video Thumbnail"
+      style="width:70%; border-radius:20px; position:relative;"
+    />
+  </a>
+</p>
+
+<!-- Play button overlay (YouTube-style) -->
+<p align="center" style="margin-top:-120px;">
+  <a href="https://youtu.be/YzrXrdS268k" target="_blank">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/YouTube_play_button_icon_%282013-2017%29.svg/512px-YouTube_play_button_icon_%282013-2017%29.svg.png" 
+      width="90" 
+      alt="Play Button" 
+      style="position:relative; top:-180px;"
+    />
+  </a>
+</p>
 
 
 
