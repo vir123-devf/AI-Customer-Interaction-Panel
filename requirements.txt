@@ -1,15 +1,62 @@
+# -----------------------
+# Core Python & Utilities
+# -----------------------
+python-dotenv>=1.0.0
+numpy>=1.24.0
+pandas>=1.5.0
+
+# -----------------------
+# Streamlit UI
+# -----------------------
+streamlit>=1.30.0
+matplotlib>=3.7.0
+
+# -----------------------
+# LangChain + Cohere + FAISS
+# -----------------------
 langchain>=0.1.0
 langchain-community>=0.0.19
 langchain-huggingface>=0.0.6
 cohere==4.53.0
-unstructured>=0.10.6
 faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
 huggingface-hub>=0.17.3
+
+# -----------------------
+# Vector DB + Embeddings
+# -----------------------
+transformers>=4.37.0
+accelerate>=0.25.0
+
+# -----------------------
+# Audio Processing (STT)
+# -----------------------
+soundfile>=0.12.1
+librosa>=0.10.1
+
+# -----------------------
+# Whisper ASR (HuggingFace pipeline)
+# -----------------------
+torch>=2.1.0
+torchaudio>=2.1.0
+
+# -----------------------
+# Text-To-Speech (gTTS)
+# -----------------------
+gTTS>=2.3.2
+
+# -----------------------
+# Supabase
+# -----------------------
+supabase>=2.5.0
+
+# -----------------------
+# PDF Generation
+# -----------------------
+reportlab>=3.6.12
+
+# -----------------------
+# File Parsing & Excel
+# -----------------------
+openpyxl>=3.1.2
 msoffcrypto-tool>=5.1.0
-python-dotenv>=1.0.0
-streamlit>=1.25.0
-ipython>=8.0.0      # For IPython.display (in notebooks)
-openpyxl>=3.1.2     # For Excel loading
-sentence-transformers
-networkx
-fpdf
