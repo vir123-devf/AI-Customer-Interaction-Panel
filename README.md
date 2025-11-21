@@ -5,7 +5,8 @@
 
 This project implements an **AI-powered Voice Bot** that listens to customer queries, understands them, retrieves answers from an e-commerce FAQ dataset, and responds using text-to-speech.
 
-It integrates 
+It integrates:
+
  *  **Whisper ASR** (Speech-to-Text)
  *  **Cohere LLM**
  *  **FAISS RAG**
