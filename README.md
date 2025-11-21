@@ -21,33 +21,9 @@ to provide a complete, real-time, voice-based customer support system.
 
 * **Live Demo:** [https://ai-customer-interaction-panel.streamlit.app/](https://ai-customer-interaction-panel.streamlit.app/)
 
-<!-- Centered "Click here" text -->
-<h3 align="center">
-  👉 <a href="https://youtu.be/YzrXrdS268k"><b>Click here to view the working video</b></a>
-</h3>
+### 👉 [**Click here to view the working video**](https://youtu.be/YzrXrdS268k)
 
-<!-- Centered Thumbnail with Rounded Corners + Play Button Overlay -->
-<p align="center">
-  <a href="https://youtu.be/YzrXrdS268k" target="_blank">
-    <img 
-      src="https://img.youtube.com/vi/YzrXrdS268k/maxresdefault.jpg" 
-      alt="Working Video Thumbnail"
-      style="width:70%; border-radius:20px; position:relative;"
-    />
-  </a>
-</p>
-
-<!-- Play button overlay (YouTube-style) -->
-<p align="center" style="margin-top:-120px;">
-  <a href="https://youtu.be/YzrXrdS268k" target="_blank">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/YouTube_play_button_icon_%282013-2017%29.svg/512px-YouTube_play_button_icon_%282013-2017%29.svg.png" 
-      width="90" 
-      alt="Play Button" 
-      style="position:relative; top:-180px;"
-    />
-  </a>
-</p>
+[![Working Video Thumbnail](https://img.youtube.com/vi/YzrXrdS268k/maxresdefault.jpg)](https://youtu.be/YzrXrdS268k)
 
 
 
@@ -257,11 +233,24 @@ Includes dependencies for:
 
 The core RAG behavior:
 
-```
-- Use ONLY the provided content.
-- Do NOT generate answers outside the context.
-- If answer not found → reply: "I don't know"
-```
+"""
+    You are an AI customer support assistant for an e-commerce platform.
+
+    Use only the information provided in the following knowledge base content:
+
+    {context}
+
+    User Query:
+    {query}
+
+    Your Task:
+    - Understand what the customer is asking.
+    - Provide a clear and helpful answer based ONLY on the provided e-commerce content.
+    - Do NOT guess or create information that is not in the content.
+    - If the answer is not present in the provided content, reply strictly with: "I don't know".
+
+    Now provide the most accurate response:
+    """
 
 This ensures:
 ✔ No hallucinations
