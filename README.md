@@ -21,7 +21,8 @@ to provide a complete, real-time, voice-based customer support system.
 
 * **Live Demo:** [https://ai-customer-interaction-panel.streamlit.app/](https://ai-customer-interaction-panel.streamlit.app/)
 
-[![Click Here to Watch the Working Video](https://img.youtube.com/vi/YzrXrdS268k/maxresdefault.jpg)](https://youtu.be/YzrXrdS268k)
+[![Click Here](https://placehold.co/800x450?text=Click+Here+to+Watch+Video&font=roboto)](https://youtu.be/YzrXrdS268k)
+
 
 ---
 
