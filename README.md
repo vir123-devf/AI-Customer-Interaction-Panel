@@ -10,8 +10,9 @@ It integrates
  *  **Cohere LLM**
  *  **FAISS RAG**
  *  **Streamlit UI**
- *  **Supabase Logging** 
- to provide a complete, real-time, voice-based customer support system.
+ *  **Supabase Logging**
+   
+to provide a complete, real-time, voice-based customer support system.
 
 ## 🔗 **Links**
 
