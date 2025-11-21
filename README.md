@@ -13,7 +13,6 @@ It integrates
  *  **Supabase Logging**
    
 to provide a complete, real-time, voice-based customer support system.
-
 ---
 
 ## 🔗 **Links**
