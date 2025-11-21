@@ -233,25 +233,10 @@ Includes dependencies for:
 ## 📘 **RAG Prompt Used**
 
 The core RAG behavior:
-
-    """
-    You are an AI customer support assistant for an e-commerce platform.
-
-    Use only the information provided in the following knowledge base content:
-
-    {context}
-
-    User Query:
-    {query}
-
-    Your Task:
-    - Understand what the customer is asking.
-    - Provide a clear and helpful answer based ONLY on the provided e-commerce content.
-    - Do NOT guess or create information that is not in the content.
-    - If the answer is not present in the provided content, reply strictly with: "I don't know".
-
-    Now provide the most accurate response:
-    """
+   
+    - Use ONLY the provided content.
+    - Do NOT generate answers outside the context.
+    - If answer not found → reply: "I don't know"  
 
 This ensures:
 ✔ No hallucinations
