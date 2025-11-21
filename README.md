@@ -43,9 +43,10 @@ to provide a complete, real-time, voice-based customer support system.
 
 ---
 
-### **PDF Download Example**
+### **Downloaded PDF Example**
 
-<img width="1029" height="773" alt="PDF Sample" src="https://github.com/user-attachments/assets/c655185d-cae5-40ac-a754-e312b2e7ea10" />
+<img width="854" height="550" alt="image" src="https://github.com/user-attachments/assets/2ddd7ee3-52ff-42a6-ab68-8c8292da6d33" />
+
 
 ---
 
