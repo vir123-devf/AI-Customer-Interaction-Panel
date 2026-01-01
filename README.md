@@ -20,9 +20,9 @@ to provide a complete, real-time, voice-based customer support system.
 
 * **Live Demo:** [https://ai-customer-interaction-panel.streamlit.app/](https://ai-customer-interaction-panel.streamlit.app/)
 
-### 👉 [**Click here to view the working video**](https://youtu.be/YzrXrdS268k)
+### 👉 [**Click here to view the working video**](https://www.youtube.com/watch?v=YzrXrdS268k)
 
-[![Working Video Thumbnail](https://img.youtube.com/vi/YzrXrdS268k/maxresdefault.jpg)](https://youtu.be/YzrXrdS268k)
+[![Working Video Thumbnail](https://img.youtube.com/vi/YzrXrdS268k/maxresdefault.jpg)](https://www.youtube.com/watch?v=YzrXrdS268k)
 
 
 
@@ -42,7 +42,7 @@ to provide a complete, real-time, voice-based customer support system.
 
 ---
 
-### **Downloaded PDF Example**
+### **PDF Example**
 
 <img width="854" height="550" alt="image" src="https://github.com/user-attachments/assets/2ddd7ee3-52ff-42a6-ab68-8c8292da6d33" />
 
